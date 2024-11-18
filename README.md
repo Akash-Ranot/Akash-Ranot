@@ -33,7 +33,7 @@ I am passionate about full-stack development and data structures & algorithms (D
 
 ## 🌱 I’m currently learning
 
-- Advanced DSA
+
 - TypeScript
 - Docker
 - java
